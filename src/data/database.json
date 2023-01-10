@@ -1,0 +1,72 @@
+[
+	{
+        "address": "100 Avenida Prospect a 6400 Hollywood",
+        "bathrooms": 1,
+        "cost": 417,
+        "favorite": false,
+        "image": "https://ap.rdcpix.com/6772053682b695a4143ad6be12b3e050l-m2747259734od-w480_h360_x2_s1.jpg",
+        "name": "The Hollywood",
+        "qualification": 4,
+        "rooms": 5,
+        "surface": {
+           "lenght": 21,
+           "width": 31
+        }
+     },
+     {
+        "address": "100 Avenida Prospect a 6400 Hollywood",
+        "bathrooms": 3,
+        "cost": 439,
+        "favorite": true,
+        "image": "https://ap.rdcpix.com/6772053682b695a4143ad6be12b3e050l-m2747259734od-w480_h360_x2_s1.jpg",
+        "name": "The Hollywood",
+        "qualification": 4,
+        "rooms": 6,
+        "surface": {
+           "lenght": 12,
+           "width": 27
+        }
+     },
+     {
+        "address": "100 Avenida Prospect a 6400 Hollywood",
+        "bathrooms": 3,
+        "cost": 478,
+        "favorite": false,
+        "image": "https://ap.rdcpix.com/6772053682b695a4143ad6be12b3e050l-m2747259734od-w480_h360_x2_s1.jpg",
+        "name": "The Hollywood",
+        "qualification": 1,
+        "rooms": 2,
+        "surface": {
+           "lenght": 19,
+           "width": 33
+        }
+     },
+     {
+        "address": "100 Avenida Prospect a 6400 Hollywood",
+        "bathrooms": 3,
+        "cost": 479,
+        "favorite": true,
+        "image": "https://ap.rdcpix.com/6772053682b695a4143ad6be12b3e050l-m2747259734od-w480_h360_x2_s1.jpg",
+        "name": "The Hollywood",
+        "qualification": 4,
+        "rooms": 6,
+        "surface": {
+           "lenght": 18,
+           "width": 20
+        }
+     },
+     {
+        "address": "100 Avenida Prospect a 6400 Hollywood",
+        "bathrooms": 1,
+        "cost": 451,
+        "favorite": true,
+        "image": "https://ap.rdcpix.com/6772053682b695a4143ad6be12b3e050l-m2747259734od-w480_h360_x2_s1.jpg",
+        "name": "The Hollywood",
+        "qualification": 4,
+        "rooms": 5,
+        "surface": {
+           "lenght": 21,
+           "width": 30
+        }
+     }
+]
