@@ -5,7 +5,7 @@ import { Home } from './src/screens/Home'
 
 const App = () => {
   return (
-    <View>
+    <View style={{ backgroundColor: '#E5E5E5', flex: 1 }}>
       <Home />
     </View>
   )
