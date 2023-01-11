@@ -12,3 +12,12 @@ import renderer from 'react-test-renderer';
 it('renders correctly', () => {
   renderer.create(<App />);
 });
+
+describe('<App/>', () => {
+  test('App snapShot', () => {
+    const snap = renderer.create(
+      <App />
+    ).toJSON();
+    expect(snap).toMatchSnapshot();
+  });
+})

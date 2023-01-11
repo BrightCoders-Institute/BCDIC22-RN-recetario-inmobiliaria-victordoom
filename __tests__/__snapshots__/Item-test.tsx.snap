@@ -1,0 +1,312 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Item/> Item snapShot 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#f5fdff",
+      "borderRadius": 10,
+      "flexDirection": "row",
+      "margin": 10,
+      "padding": 10,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "marginRight": 10,
+        "marginVertical": 5,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "https://ap.rdcpix.com/6772053682b695a4143ad6be12b3e050l-m2747259734od-w480_h360_x2_s1.jpg",
+        }
+      }
+      style={
+        Object {
+          "borderRadius": 10,
+          "height": 95,
+          "width": 90,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#FBEDB7",
+          "borderRadius": 10,
+          "bottom": 5,
+          "flexDirection": "row",
+          "justifyContent": "center",
+          "paddingHorizontal": 10,
+          "position": "absolute",
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        selectable={false}
+        style={
+          Array [
+            Object {
+              "color": "#EEBA00",
+              "fontSize": 20,
+            },
+            undefined,
+            Object {
+              "fontFamily": "Material Design Icons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        󰓎
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontSize": 13,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        4
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 18,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      The Hollywood
+    </Text>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "flex-start",
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        selectable={false}
+        style={
+          Array [
+            Object {
+              "color": "#B4B8B9",
+              "fontSize": 20,
+            },
+            undefined,
+            Object {
+              "fontFamily": "Material Design Icons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        󰟙
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#B4B8B9",
+            "fontSize": 13,
+          }
+        }
+      >
+        100 Avenida P. 6400 Hollywood
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        selectable={false}
+        style={
+          Array [
+            Object {
+              "color": "#B4B8B9",
+              "fontSize": 30,
+            },
+            undefined,
+            Object {
+              "fontFamily": "Material Design Icons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        󰿑
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontSize": 13,
+            "fontWeight": "bold",
+            "marginLeft": 3,
+            "marginRight": 9,
+          }
+        }
+      >
+        6
+      </Text>
+      <Text
+        allowFontScaling={false}
+        selectable={false}
+        style={
+          Array [
+            Object {
+              "color": "#B4B8B9",
+              "fontSize": 30,
+            },
+            undefined,
+            Object {
+              "fontFamily": "Material Design Icons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        󰦠
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontSize": 13,
+            "fontWeight": "bold",
+            "marginLeft": 3,
+            "marginRight": 9,
+          }
+        }
+      >
+        3
+      </Text>
+      <Text
+        allowFontScaling={false}
+        selectable={false}
+        style={
+          Array [
+            Object {
+              "color": "#B4B8B9",
+              "fontSize": 30,
+            },
+            undefined,
+            Object {
+              "fontFamily": "Material Design Icons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        󰁌
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontSize": 13,
+            "fontWeight": "bold",
+            "marginLeft": 3,
+            "marginRight": 9,
+          }
+        }
+      >
+        324 ft
+        ²
+      </Text>
+    </View>
+    <Text
+      style={
+        Object {
+          "fontSize": 18,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      $
+      439
+      /m
+    </Text>
+    <View
+      style={
+        Object {
+          "bottom": 0,
+          "position": "absolute",
+          "right": 0,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#00B074",
+            "borderRadius": 20,
+            "height": 30,
+            "justifyContent": "center",
+            "width": 30,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          selectable={false}
+          style={
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 20,
+              },
+              undefined,
+              Object {
+                "fontFamily": "Ionicons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              Object {},
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
