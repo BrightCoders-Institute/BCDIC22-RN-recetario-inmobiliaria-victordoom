@@ -9,7 +9,7 @@ export const Home = () => {
     <SafeAreaView >
       <FlatList
         data={database}
-        renderItem={({ item }) => <Item rental={item} />}
+        renderItem={({item}) => <Item rental={item} />}
       />
     </SafeAreaView>
   )
